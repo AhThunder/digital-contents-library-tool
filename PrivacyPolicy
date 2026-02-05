@@ -1,0 +1,35 @@
+# Privacy Policy for Digital Contents Library Tool
+
+**Last Updated: May 20, 2024**
+
+The "Digital Contents Library Tool" extension is committed to ensuring your privacy. This policy explains how we handle information within the extension.
+
+### 1. No Data Collection
+We do not collect, store, or transmit any personally identifiable information (PII), browsing history, or user data to any external servers. Your privacy is our priority.
+
+### 2. Local Storage of Data
+All information processed by the extension, including:
+- Custom API Base URLs
+- User-defined Regex Patterns
+- Product Codes and Local File Metadata
+- User Preference Settings
+
+is stored **strictly on the user's local device** using the browser's `chrome.storage.local` API. This data never leaves your computer and is only used to provide the extension's core functionality.
+
+### 3. External API Requests
+This extension allows users to define their own third-party API endpoints to fetch metadata. 
+- When the extension fetches data from an API you have specified, it only transmits the identified product code to that specific service.
+- If the "Translation" feature is enabled, the extension may send product titles or descriptions to the Google Translate API for translation purposes.
+- We do not have control over, and are not responsible for, the privacy practices of these user-defined third-party services.
+
+### 4. Permissions Usage
+- **Storage:** Used to save your settings and local library data on your machine.
+- **Host Permissions (<all_urls>):** Used only to detect and highlight the ID patterns you have defined on web pages you visit. No browsing data is recorded or sent externally.
+
+### 5. Data Deletion
+Users can delete all stored data at any time by:
+- Using the "Reset" button within the extension popup.
+- Uninstalling the extension, which automatically removes all locally stored data.
+
+### 6. Contact Information
+If you have any questions regarding this Privacy Policy, you may contact us via our GitHub repository's issue tracker.
