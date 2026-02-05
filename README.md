@@ -42,7 +42,7 @@ A. 설정 -> 하이라이트 메뉴에서 '중복(소유함)'과 '미중복' 색
 
 ## 🐞 문의 및 버그 제보
 
-사용 중 오류가 발생하거나 새로운 기능 제안이 있다면 [Issues](https://github.com/AhThunder/DigitalLibrary/issues) 탭을 이용해 주세요.
+사용 중 오류가 발생하거나 새로운 기능 제안이 있다면 [Issues](https://github.com/AhThunder/digital-contents-library-tool/issues) 탭을 이용해 주세요.
 
 1.  **Bug Report**: 버그 발생 시 구체적인 상황과 스크린샷을 첨부해 주세요.
 2.  **Feature Request**: 원하는 기능이 있다면 자유롭게 제안해 주세요.
