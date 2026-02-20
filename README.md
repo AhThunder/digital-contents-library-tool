@@ -28,9 +28,9 @@
 | **Rule Name** | 규칙 이름 (식별용) | `Example Site` |
 | **Target API URL** | 정보를 가져올 API 주소 | `https://example.com/api/` |
 | **Highlight Regex** | 찾을 코드의 정규식 패턴 | `(CODE-)\d{3,6}` |
-| **Destination Code** | API 요청에 사용할 코드 포맷 | `CODE-{id}` |
+| **Destination Code** | API 요청에 사용할 코드 포맷 | `CODE-{num}` |
 
-> **Tip:** `{id}`는 정규식에서 추출된 숫자 부분으로 치환됩니다.
+> **Tip:** `{num}`은 정규식에서 추출된 숫자 부분으로 치환됩니다.
 
 ## ❓ 자주 묻는 질문 (FAQ)
 
