@@ -20,8 +20,8 @@
 
 ## 🚀 설치 방법
 
-- [Chrome 웹 스토어 (Digital Contents Library Tool)](https://chromewebstore.google.com/detail/digital-contents-library/jgdkgcjfbbfpgfmhihgknpeajkfjcbhb)
-- [Firefox Add-ons (Digital Contents Library Tool)](https://addons.mozilla.org/en-US/firefox/addon/digital-contents-library-tool/)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-설치하기-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/digital-contents-library/jgdkgcjfbbfpgfmhihgknpeajkfjcbhb)
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-설치하기-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/digital-contents-library-tool/)
 
 ## ⚙️ 설정 가이드 (중요)
 
