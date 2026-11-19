@@ -20,7 +20,8 @@
 
 ## 🚀 설치 방법
 
-이 확장 프로그램은 Chrome Web Store을 통해 설치 가능합니다.
+- [Chrome 웹 스토어 (Digital Contents Library Tool)](https://chromewebstore.google.com/detail/digital-contents-library/jgdkgcjfbbfpgfmhihgknpeajkfjcbhb)
+- [Firefox Add-ons (Digital Contents Library Tool)](https://addons.mozilla.org/en-US/firefox/addon/digital-contents-library-tool/)
 
 ## ⚙️ 설정 가이드 (중요)
 
