@@ -1,4 +1,11 @@
-# 📚 Digital Contents Library Tool
+<div align="center">
+ <img src="/icon128.png">
+</div>
+
+<div align="center">
+  
+  # Digital Contents Library Tool
+</div>
 
 웹페이지 내의 특정 콘텐츠 코드를 자동으로 인식하여 하이라이트하고, 마우스 오버 시 상세 정보를 미리 보여주는 크롬 확장 프로그램입니다. 나만의 라이브러리를 구축하고 관리하세요.
 
